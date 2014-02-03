@@ -23,7 +23,7 @@
 //  THE SOFTWARE.
 
 
-
+#import <Foundation/Foundation.h>
 
 @interface NSString (OAURLEncodingAdditions)
 

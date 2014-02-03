@@ -24,7 +24,7 @@
 //  THE SOFTWARE.
 
 
-
+#import <Foundation/Foundation.h>
 
 @interface OAConsumer : NSObject {
 @protected

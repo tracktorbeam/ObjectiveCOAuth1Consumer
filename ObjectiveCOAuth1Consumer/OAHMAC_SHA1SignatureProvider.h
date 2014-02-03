@@ -24,6 +24,7 @@
 //  THE SOFTWARE.
 
 
+#import <Foundation/Foundation.h>
 #import <CommonCrypto/CommonHMAC.h>
 
 #import "OASignatureProviding.h"

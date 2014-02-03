@@ -23,6 +23,7 @@
 //  THE SOFTWARE.
 
 
+#import <Foundation/Foundation.h>
 
 
 @protocol OASignatureProviding <NSObject>

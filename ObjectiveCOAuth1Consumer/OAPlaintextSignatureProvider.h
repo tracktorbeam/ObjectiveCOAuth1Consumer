@@ -24,6 +24,8 @@
 //  THE SOFTWARE.
 
 
+#import <Foundation/Foundation.h>
+
 #import "OASignatureProviding.h"
 #import "NSString+URLEncoding.h"
 

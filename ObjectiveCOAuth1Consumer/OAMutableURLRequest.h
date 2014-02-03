@@ -24,6 +24,8 @@
 //  THE SOFTWARE.
 
 
+#import <Foundation/Foundation.h>
+
 #import "OAConsumer.h"
 #import "OAToken.h"
 #import "OAHMAC_SHA1SignatureProvider.h"

@@ -24,6 +24,9 @@
 //  THE SOFTWARE.
 
 
+#import <Foundation/Foundation.h>
+
+
 @interface OAToken : NSObject {
 @protected
 	NSString *key;
